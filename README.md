@@ -1,13 +1,8 @@
-<h2> Hi, I'm Sief El Menshawi</h2>
-
-<p><strong>Full-Stack Developer</strong></p>
-
-<p>ASP.NET Core • React • SQL Server • Clean Architecture</p>
+<h2> Hi I'm Sief El Menshawi</h2>
 
 <p>
-Crafting scalable backend systems with ASP.NET Core and building responsive user experiences with React.
+Backend & Full-Stack Software Developer passionate about building scalable, secure, and maintainable web applications. I enjoy designing RESTful APIs, architecting backend systems with ASP.NET Core, and building responsive front-end experiences with React, with a strong focus on clean architecture, performance, and code quality.
 </p>
-<hr>
 
 <h2> About Me</h2>
 
