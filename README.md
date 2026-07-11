@@ -24,7 +24,7 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 </p>
 
 <p>
-<strong>C#</strong> • <strong>ASP.NET Core</strong> • <strong>Redis</strong> • Entity Framework Core • ASP.NET Core Identity • JWT Authentication • LINQ • AutoMapper • FluentValidation • MediatR • SignalR
+<strong>C#</strong> • <strong>ASP.NET Core</strong> • <strong>Redis</strong> • <strong>Entity Framework Core</strong> • <strong>ASP.NET Core Identity</strong> • <strong>JWT Authentication</strong> • <strong>LINQ</strong> •<strong>AutoMapper</strong>  •<strong>FluentValidation</strong>  • <strong></strong>SignalR
 </p>
 
 <h3> Frontend</h3>
@@ -46,7 +46,7 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 <h3> Architecture & Design</h3>
 
 <p>
-<strong>Clean Architecture</strong> • <strong>Onion Architecture</strong> • Repository Pattern • Unit of Work • Specification Pattern • SOLID Principles
+<strong>Clean Architecture</strong> • <strong>Onion Architecture</strong> • <strong>Repository Pattern</strong> • <strong>Unit of Work</strong> • <strong>Specification Pattern</strong> • <strong>SOLID Principles</strong>
 </p>
 
 <h3> Tools</h3>
