@@ -97,8 +97,8 @@ https://github.com/sief-elmenshawi/GymManagementSystem
 
 ## 📫 Connect with Me
 
-- LinkedIn: (Add your LinkedIn)
-- Email: (Add your Email)
+- LinkedIn:https://www.linkedin.com/in/sief-elmenshawi
+- Email: siefelmnshawi@gmail.com
 
 ---
 
