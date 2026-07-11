@@ -1,7 +1,8 @@
 <h1 align="center">Hi  I'm Sief El Menshawi</h1>
 
 <h3 align="center">
-Full-Stack Developer | ASP.NET Core • React
+Full-Stack Developer 
+  ASP.NET Core • React • SQL Server • Clean Architecture
 </h3>
 
 <p align="center">
