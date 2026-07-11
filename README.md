@@ -16,7 +16,6 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 </ul>
 <hr>
 <h2>Tech Stack</h2>
-
 <<h3> Backend</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,redis" />
