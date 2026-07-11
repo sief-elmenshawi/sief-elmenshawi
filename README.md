@@ -15,44 +15,48 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
   <li>Continuously learning and improving through real-world projects</li>
 </ul>
 <hr>
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
-<h3>⚙️ Backend</h3>
+<h3>Backend</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,redis" />
 </p>
 
 <p>
-Entity Framework Core • ASP.NET Core Identity • JWT Authentication • LINQ • AutoMapper • FluentValidation • MediatR • SignalR
+<strong>C#</strong> • <strong>ASP.NET Core</strong> • <strong>Redis</strong> • Entity Framework Core • ASP.NET Core Identity • JWT Authentication • LINQ • AutoMapper • FluentValidation • MediatR • SignalR
 </p>
 
-<h3>💻 Frontend</h3>
+<h3> Frontend</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
 </p>
 
-<h3>🗄️ Database</h3>
-
 <p>
-SQL Server
+<strong>React</strong> • <strong>JavaScript</strong> • <strong>HTML5</strong> • <strong>CSS3</strong> • <strong>Tailwind CSS</strong> • <strong>Bootstrap</strong>
 </p>
 
-<h3>🏗️ Architecture & Design</h3>
+<h3> Database</h3>
 
 <p>
-Clean Architecture • Onion Architecture • Repository Pattern • Unit of Work • Specification Pattern • SOLID Principles
+<strong>SQL Server</strong>
 </p>
 
-<h3>🛠️ Tools</h3>
+<h3> Architecture & Design</h3>
+
+<p>
+<strong>Clean Architecture</strong> • <strong>Onion Architecture</strong> • Repository Pattern • Unit of Work • Specification Pattern • SOLID Principles
+</p>
+
+<h3> Tools</h3>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,postman" />
 </p>
 
 <p>
-Swagger
+<strong>Git</strong> • <strong>Visual Studio Code</strong> • <strong>Visual Studio</strong> • <strong>Postman</strong> • <strong>Swagger</strong>
 </p>
 
 
