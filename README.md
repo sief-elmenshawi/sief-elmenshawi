@@ -1,14 +1,14 @@
-<h1 align="center">Hi  I'm Sief El Menshawi</h1>
+<h2> Hi, I'm Sief El Menshawi</h2>
 
-<h3 align="center">
-Full-Stack Developer 
-  ASP.NET Core • React • SQL Server • Clean Architecture
-</h3>
+<p><strong>Full-Stack Developer</strong></p>
 
-<p align="center">
+<p>ASP.NET Core • React • SQL Server • Clean Architecture</p>
+
+<p>
 Crafting scalable backend systems with ASP.NET Core and building responsive user experiences with React.
 </p>
 <hr>
+
 <h2> About Me</h2>
 
 <ul>
