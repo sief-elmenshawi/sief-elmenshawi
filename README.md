@@ -67,5 +67,13 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 <strong>Git</strong> • <strong>Visual Studio Code</strong> • <strong>Visual Studio</strong> • <strong>Postman</strong> • <strong>Swagger</strong>
 </p>
 <hr>
+<h2>GitHub Statistics</h2>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sief-elmenshawi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sief-elmenshawi&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sief-elmenshawi&theme=github-dark&hide_border=true" />
+</p>
