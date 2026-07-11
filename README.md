@@ -15,22 +15,44 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
   <li>Continuously learning and improving through real-world projects</li>
 </ul>
 <hr>
-<h2>Tech Stack</h2>
-<<h3> Backend</h3>
+<h2>🛠️ Tech Stack</h2>
+
+<h3>⚙️ Backend</h3>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,redis" />
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoMapper-CA4245?style=flat-square" />
-  <img src="https://img.shields.io/badge/FluentValidation-0F9D58?style=flat-square" />
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" />
+
+<p>
+Entity Framework Core • ASP.NET Core Identity • JWT Authentication • LINQ • AutoMapper • FluentValidation • MediatR • SignalR
 </p>
-<h3> Frontend</h3>
+
+<h3>💻 Frontend</h3>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+</p>
+
+<h3>🗄️ Database</h3>
+
+<p>
+SQL Server
+</p>
+
+<h3>🏗️ Architecture & Design</h3>
+
+<p>
+Clean Architecture • Onion Architecture • Repository Pattern • Unit of Work • Specification Pattern • SOLID Principles
+</p>
+
+<h3>🛠️ Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,postman" />
+</p>
+
+<p>
+Swagger
 </p>
 
 
