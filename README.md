@@ -27,13 +27,11 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoMapper-CA4245?style=flat-square" />
   <img src="https://img.shields.io/badge/FluentValidation-0F9D58?style=flat-square" />
-  <img src="https://img.shields.io/badge/MediatR-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" />
 </p>
 <h3> Frontend</h3>
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
 </p>
 
 
