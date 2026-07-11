@@ -67,18 +67,8 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 <strong>Git</strong> • <strong>Visual Studio Code</strong> • <strong>Visual Studio</strong> • <strong>Postman</strong> • <strong>Swagger</strong>
 </p>
 <hr>
-<h2> Connect With Me</h2>
+##  Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sief-elmenshawi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="siefelmnshawi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<p>
-<strong>LinkedIn</strong> • <strong>Email</strong>
-</p>
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:siefelmnshawi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sief%20Elmenshawi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sief-elmenshawi)
+[![GitHub](https://img.shields.io/badge/GitHub-sief--elmenshawi-black?style=for-the-badge&logo=github)](https://github.com/sief-elmenshawi)
