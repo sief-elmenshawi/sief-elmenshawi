@@ -1,7 +1,4 @@
-# Hi 👋, I'm Sief Elmenshawi
-
-Junior .NET Backend Developer from Egypt 🇪🇬
-
-I build scalable RESTful APIs using ASP.NET Core, Entity Framework Core, SQL Server, and Redis.
-
-Currently building production-ready backend applications following Onion Architecture and Clean Architecture.
+ Hi, I'm Sief El Menshawi 
+ 
+ Full-Stack Developer | ASP.NET Core & React
+Building scalable web applications with ASP.NET Core, React, SQL Server, and modern software architecture. Passionate about clean code, RESTful APIs, performance optimization, and delivering high-quality software. Continuously learning, improving, and building projects that solve real-world problems.
