@@ -15,6 +15,14 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
   <li>Continuously learning and improving through real-world projects</li>
 </ul>
 <hr>
+<h2> What I'm Working On</h2>
+
+<ul>
+  <li> Building production-ready E-Commerce APIs.</li>
+  <li> Integrating secure online payments with Stripe.</li>
+  <li> Developing scalable backend solutions using <strong>ASP.NET Core</strong>.</li>
+</ul>
+<hr>
 <h2> Tech Stack</h2>
 
 <h3>Backend</h3>
@@ -58,6 +66,6 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 <p>
 <strong>Git</strong> • <strong>Visual Studio Code</strong> • <strong>Visual Studio</strong> • <strong>Postman</strong> • <strong>Swagger</strong>
 </p>
-
+<hr>
 
 
