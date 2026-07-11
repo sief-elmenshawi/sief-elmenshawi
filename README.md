@@ -16,24 +16,25 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 </ul>
 <hr>
 <h2>Tech Stack</h2>
-<h2>🛠 Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,tailwind,redis,git,github,docker,visualstudio,vscode,postman" />
+<<h3> Backend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,redis" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-0A66C2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Onion_Architecture-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/AutoMapper-CA4245?style=flat-square"/>
-<img src="https://img.shields.io/badge/FluentValidation-0F9D58?style=flat-square"/>
-<img src="https://img.shields.io/badge/MediatR-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoMapper-CA4245?style=flat-square" />
+  <img src="https://img.shields.io/badge/FluentValidation-0F9D58?style=flat-square" />
+  <img src="https://img.shields.io/badge/MediatR-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square" />
 </p>
+<h3> Frontend</h3>
 
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
 
 
