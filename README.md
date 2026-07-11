@@ -24,7 +24,7 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
 </p>
 
 <p>
-<strong>C#</strong> • <strong>ASP.NET Core</strong> • <strong>Redis</strong> • <strong>Entity Framework Core</strong> • <strong>ASP.NET Core Identity</strong> • <strong>JWT Authentication</strong> • <strong>LINQ</strong> •<strong>AutoMapper</strong>  •<strong>FluentValidation</strong>  • <strong></strong>SignalR
+<strong>C#</strong> • <strong>ASP.NET Core</strong> • <strong>Redis</strong> • <strong>Entity Framework Core</strong> • <strong>ASP.NET Core Identity</strong> • <strong>JWT Authentication</strong> • <strong>LINQ</strong> •<strong>AutoMapper</strong>  •<strong>FluentValidation</strong>  • <strong>SignalR</strong>
 </p>
 
 <h3> Frontend</h3>
