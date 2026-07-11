@@ -39,3 +39,6 @@ Backend & Full-Stack Software Developer focused on building scalable, secure, an
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
