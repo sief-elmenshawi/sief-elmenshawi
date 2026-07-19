@@ -11,7 +11,7 @@ Building secure, well-tested RESTful APIs with ASP.NET Core, Clean/Onion Archite
 
 ### 🚀 Featured Projects
 
-**[Clinic Appointment System](https://github.com/sief-elmenshawi/Clinic-Appointment-System)**
+**[Clinic Appointment System](https://github.com/sief-elmenshawi/ClinicAppointmentSystem)**
 Clean Architecture + CQRS (MediatR) API with race-condition-safe double-booking prevention, Hangfire background jobs, Domain Events, Audit Logging, and Serilog structured logging.
 
 **[E-Commerce API](https://github.com/sief-elmenshawi/E_Commerce.API/tree/Assigment)**
