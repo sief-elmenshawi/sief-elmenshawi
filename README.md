@@ -43,10 +43,3 @@ Frontend: [ClinicFrontend](https://github.com/sief-elmenshawi/ClinicFrontend) â€
 **Quality & Resilience:** FluentValidation, Global Exception Handling, Rate Limiting, Health Checks, API Versioning
 **Testing:** xUnit, Moq, FluentAssertions, JUnit, Mockito
 **Logging & Observability:** Serilog, OpenTelemetry/Jaeger
-
----
-
-### ðŸ“Š GitHub Stats
-
-![Sief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sief-elmenshawi&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sief-elmenshawi&layout=compact&hide_border=true&theme=default)
