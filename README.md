@@ -25,13 +25,28 @@ Frontend: [ClinicFrontend](https://github.com/sief-elmenshawi/ClinicFrontend) �
 
 ### 🛠️ Tech Stack
 
-**Backend:** Java, Spring Boot, C#, ASP.NET Core, EF Core / Spring Data JPA, RESTful APIs
-**Frontend:** React, TypeScript, Ant Design, Tailwind CSS
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 **Architecture:** Clean/Onion Architecture, CQRS, Repository, Unit of Work, Specification Pattern, SOLID
-**Database & Caching:** PostgreSQL, SQL Server, Redis
-**Messaging & Jobs:** RabbitMQ, Hangfire
 **Auth & Security:** JWT + Refresh Tokens, Role-Based Authorization, ASP.NET Core Identity / Spring Security
 **Quality & Resilience:** FluentValidation, Global Exception Handling, Rate Limiting, Health Checks, API Versioning
 **Testing:** xUnit, Moq, FluentAssertions, JUnit, Mockito
 **Logging & Observability:** Serilog, OpenTelemetry/Jaeger
-**Tools:** Git/GitHub, Docker, Postman, Swagger/OpenAPI
+
+---
+
+### 📊 GitHub Stats
+
+![Sief's GitHub stats](https://github-readme-stats.vercel.app/api?username=sief-elmenshawi&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sief-elmenshawi&layout=compact&hide_border=true&theme=default)
